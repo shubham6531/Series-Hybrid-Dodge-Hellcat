@@ -9,7 +9,7 @@ Targeted Performance Characteristics:
 Comparison Metric: Fuel Efficiency (Fuel consumption over a fixed drive cycle)
 
 Components Modeled:
-  Supervisory Control: Dictates engine operation point
+Supervisory Control: Dictates engine operation point
   ICE Engine: Calculates fuel consumption based on operating point
   Electric Motor: Simulates motor torque and power demands based on input throttle, while respecting traction limits and powertrain inefficiencies (motor & transmission)
   Battery: Computes State-of-Charge & Cell Temperature while respecting battery inefficiencies.
